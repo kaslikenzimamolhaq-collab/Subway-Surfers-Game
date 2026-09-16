@@ -1,0 +1,7 @@
+Product Name: Baby Run
+Brand / Developer: Kaslik Noristani
+Feedback Email: kasliknoristani@gmail.com
+Unity Ads Android Game ID: 800374540
+Rewarded Placement: BP_Rewarded_Android
+Interstitial Placement: BP_Interstitial_Android
+Banner Placement: BP_Banner_Android
